@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>4D88CCB8-1F1F-46E8-BF71-69E858955FDC</title>
+    <defs>
+        <circle id="path-1" cx="32" cy="32" r="32"></circle>
+    </defs>
+    <g id="⚙️-Old-design-edits" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements-for-old-design" transform="translate(-91.000000, -376.000000)">
+            <g id="Default-image" transform="translate(48.000000, 324.000000)">
+                <g id="logo" transform="translate(43.000000, 52.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Oval" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <rect id="Rectangle" fill="#D8D8D8" mask="url(#mask-2)" x="14" y="14" width="36" height="36"></rect>
+                    <text mask="url(#mask-2)" font-family="RedHatDisplayRoman-SemiBold, Red Hat Display" font-size="10" font-weight="500" fill="#292B2D">
+                        <tspan x="21.8728814" y="35">logo</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

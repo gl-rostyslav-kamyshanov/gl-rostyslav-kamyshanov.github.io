@@ -1,0 +1,17 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "tv.pixellot.ott.pxa.stage",
+            "sha256_cert_fingerprints": [
+                [
+                    "test stage fingerprint",
+                    "test1 stage fingerprint"
+                ]
+            ]
+        }
+    }
+]

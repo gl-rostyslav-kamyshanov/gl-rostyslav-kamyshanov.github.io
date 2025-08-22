@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "label": "Chelsea",
+            "type": "new"
+        },
+        {
+            "label": "Man City",
+            "type": "new"
+        },
+        {
+            "label": "Arsenal",
+            "type": "new"
+        },
+        {
+            "label": "Leed United",
+            "type": "history"
+        },
+        {
+            "label": "West Ham",
+            "type": "new"
+        },
+        {
+            "label": "Real Madrid",
+            "type": "new"
+        },
+        {
+            "label": "Barselona",
+            "type": "new"
+        },
+        {
+            "label": "Atletico Madrid",
+            "type": "history"
+        },
+        {
+            "label": "Milano",
+            "type": "history"
+        },
+        {
+            "label": "Karpaty Lviv",
+            "type": "new"
+        },
+        {
+            "label": "Dynamo Kyiv",
+            "type": "new"
+        }
+    ]
+}

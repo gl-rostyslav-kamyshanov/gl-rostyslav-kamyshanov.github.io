@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Welcome!",
+        "description": "Enjoy exclusive content. Experience LIVE events or watch videos on demand ANYTIME, from ANYWHERE.",
+        "imageUrl": "/images/banners/auth-slides/slide_1.webp"
+    },
+    {
+        "title": "Create your own content",
+        "description": "Create your own clips and highlights from content. Tagging the most important moments of the events. ",
+        "imageUrl": "/images/banners/auth-slides/slide_2.webp"
+    },
+    {
+        "title": "See anywhere",
+        "description": "Enjoy on your internet browser or download  mobile application – you can watch on up to three device(s) at the same time.",
+        "imageUrl": "/images/banners/auth-slides/slide_3.webp"
+    }
+]

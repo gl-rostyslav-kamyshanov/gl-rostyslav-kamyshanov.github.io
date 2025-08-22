@@ -1,0 +1,1214 @@
+{
+  "data": [
+    {
+      "title": "Afghanistan",
+      "code": "AF",
+      "operatorCode": "+93"
+    },
+    {
+      "title": "Albania",
+      "code": "AL",
+      "operatorCode": "+355"
+    },
+    {
+      "title": "Algeria",
+      "code": "DZ",
+      "operatorCode": "+213"
+    },
+    {
+      "title": "American Samoa",
+      "code": "AS",
+      "operatorCode": "+1 684"
+    },
+    {
+      "operatorCode": "+376",
+      "title": "Andorra",
+      "code": "AD"
+    },
+    {
+      "operatorCode": "+244",
+      "title": "Angola",
+      "code": "AO"
+    },
+    {
+      "operatorCode": "+1 264",
+      "title": "Anguilla",
+      "code": "AI"
+    },
+    {
+      "operatorCode": "+1 268",
+      "title": "Antigua and Barbuda",
+      "code": "AG"
+    },
+    {
+      "operatorCode": "+54",
+      "title": "Argentina",
+      "code": "AR"
+    },
+    {
+      "operatorCode": "+374",
+      "title": "Armenia",
+      "code": "AM"
+    },
+    {
+      "operatorCode": "+297",
+      "title": "Aruba",
+      "code": "AW"
+    },
+    {
+      "operatorCode": "+247",
+      "title": "Ascension Island",
+      "code": "AC"
+    },
+    {
+      "operatorCode": "+61",
+      "title": "Australia",
+      "code": "AU"
+    },
+    {
+      "operatorCode": "+43",
+      "title": "Austria",
+      "code": "AT"
+    },
+    {
+      "operatorCode": "+994",
+      "title": "Azerbaijan",
+      "code": "AZ"
+    },
+    {
+      "title": "Åland Islands",
+      "code": "AX",
+      "operatorCode": "+35818"
+    },
+    {
+      "operatorCode": "+1 242",
+      "title": "Bahamas",
+      "code": "BS"
+    },
+    {
+      "operatorCode": "+973",
+      "title": "Bahrain",
+      "code": "BH"
+    },
+    {
+      "operatorCode": "+880",
+      "title": "Bangladesh",
+      "code": "BD"
+    },
+    {
+      "operatorCode": "+1 246",
+      "title": "Barbados",
+      "code": "BB"
+    },
+    {
+      "operatorCode": "+375",
+      "title": "Belarus",
+      "code": "BY"
+    },
+    {
+      "operatorCode": "+32",
+      "title": "Belgium",
+      "code": "BE"
+    },
+    {
+      "operatorCode": "+501",
+      "title": "Belize",
+      "code": "BZ"
+    },
+    {
+      "operatorCode": "+229",
+      "title": "Benin",
+      "code": "BJ"
+    },
+    {
+      "operatorCode": "+1 441",
+      "title": "Bermuda",
+      "code": "BM"
+    },
+    {
+      "operatorCode": "+975",
+      "title": "Bhutan",
+      "code": "BT"
+    },
+    {
+      "operatorCode": "+591",
+      "title": "Bolivia",
+      "code": "BO"
+    },
+    {
+      "operatorCode": "+387",
+      "title": "Bosnia and Herzegovina",
+      "code": "BA"
+    },
+    {
+      "operatorCode": "+267",
+      "title": "Botswana",
+      "code": "BW"
+    },
+    {
+      "operatorCode": "+55",
+      "title": "Brazil",
+      "code": "BR"
+    },
+    {
+      "operatorCode": "+246",
+      "title": "British Indian Ocean Territory",
+      "code": "IO"
+    },
+    {
+      "operatorCode": "+1 284",
+      "title": "British Virgin Islands",
+      "code": "VG"
+    },
+    {
+      "operatorCode": "+673",
+      "title": "Brunei",
+      "code": "BN"
+    },
+    {
+      "operatorCode": "+359",
+      "title": "Bulgaria",
+      "code": "BG"
+    },
+    {
+      "operatorCode": "+226",
+      "title": "Burkina Faso",
+      "code": "BF"
+    },
+    {
+      "operatorCode": "+257",
+      "title": "Burundi",
+      "code": "BI"
+    },
+    {
+      "operatorCode": "+855",
+      "title": "Cambodia",
+      "code": "KH"
+    },
+    {
+      "operatorCode": "+237",
+      "title": "Cameroon",
+      "code": "CM"
+    },
+    {
+      "operatorCode": "+1",
+      "title": "Canada",
+      "code": "CA"
+    },
+    {
+      "operatorCode": "+34",
+      "title": "Canary Islands",
+      "code": "IC"
+    },
+    {
+      "operatorCode": "+599",
+      "title": "Caribbean Netherlands",
+      "code": "BQ"
+    },
+    {
+      "operatorCode": "+238",
+      "title": "Cape Verde",
+      "code": "CV"
+    },
+    {
+      "operatorCode": "+ 345",
+      "title": "Cayman Islands",
+      "code": "KY"
+    },
+    {
+      "operatorCode": "+236",
+      "title": "Central African Republic",
+      "code": "CF"
+    },
+    {
+      "operatorCode": "+34",
+      "title": "Ceuta and Melilla",
+      "code": "EA"
+    },
+    {
+      "operatorCode": "+235",
+      "title": "Chad",
+      "code": "TD"
+    },
+    {
+      "operatorCode": "+56",
+      "title": "Chile",
+      "code": "CL"
+    },
+    {
+      "operatorCode": "+86",
+      "title": "China",
+      "code": "CN"
+    },
+    {
+      "operatorCode": "+61",
+      "title": "Christmas Island",
+      "code": "CX"
+    },
+    {
+      "operatorCode": "+61",
+      "title": "Cocos (Keeling) Islands",
+      "code": "CC"
+    },
+    {
+      "operatorCode": "+57",
+      "title": "Colombia",
+      "code": "CO"
+    },
+    {
+      "operatorCode": "+269",
+      "title": "Comoros",
+      "code": "KM"
+    },
+    {
+      "operatorCode": "+242",
+      "title": "Congo",
+      "code": "CG"
+    },
+    {
+      "operatorCode": "+243",
+      "title": "Congo, Dem. Rep. of (Zaire)",
+      "code": "CD"
+    },
+    {
+      "operatorCode": "+682",
+      "title": "Cook Islands",
+      "code": "CK"
+    },
+    {
+      "operatorCode": "+506",
+      "title": "Costa Rica",
+      "code": "CR"
+    },
+    {
+      "operatorCode": "+385",
+      "title": "Croatia",
+      "code": "HR"
+    },
+    {
+      "operatorCode": "+53",
+      "title": "Cuba",
+      "code": "CU"
+    },
+    {
+      "operatorCode": "+599",
+      "title": "Curacao",
+      "code": "CW"
+    },
+    {
+      "operatorCode": "+537",
+      "title": "Cyprus",
+      "code": "CY"
+    },
+    {
+      "operatorCode": "+420",
+      "title": "Czechia",
+      "code": "CZ"
+    },
+    {
+      "operatorCode": "+45",
+      "title": "Denmark",
+      "code": "DK"
+    },
+    {
+      "operatorCode": "+246",
+      "title": "Diego Garcia",
+      "code": "DG"
+    },
+    {
+      "operatorCode": "+253",
+      "title": "Djibouti",
+      "code": "DJ"
+    },
+    {
+      "operatorCode": "+1 767",
+      "title": "Dominica",
+      "code": "DM"
+    },
+    {
+      "operatorCode": "+1 809",
+      "title": "Dominican Republic",
+      "code": "DO"
+    },
+    {
+      "operatorCode": "+670",
+      "title": "Timor-Leste",
+      "code": "TL"
+    },
+    {
+      "operatorCode": "+593",
+      "title": "Ecuador",
+      "code": "EC"
+    },
+    {
+      "operatorCode": "+20",
+      "title": "Egypt",
+      "code": "EG"
+    },
+    {
+      "operatorCode": "+503",
+      "title": "El Salvador",
+      "code": "SV"
+    },
+    {
+      "operatorCode": "+240",
+      "title": "Equatorial Guinea",
+      "code": "GQ"
+    },
+    {
+      "operatorCode": "+291",
+      "title": "Eritrea",
+      "code": "ER"
+    },
+    {
+      "operatorCode": "+372",
+      "title": "Estonia",
+      "code": "EE"
+    },
+    {
+      "operatorCode": "+251",
+      "title": "Ethiopia",
+      "code": "ET"
+    },
+    {
+      "operatorCode": "+500",
+      "title": "Falkland Islands",
+      "code": "FK"
+    },
+    {
+      "operatorCode": "+298",
+      "title": "Faroe Islands",
+      "code": "FO"
+    },
+    {
+      "operatorCode": "+679",
+      "title": "Fiji",
+      "code": "FJ"
+    },
+    {
+      "operatorCode": "+358",
+      "title": "Finland",
+      "code": "FI"
+    },
+    {
+      "operatorCode": "+33",
+      "title": "France",
+      "code": "FR"
+    },
+    {
+      "operatorCode": "+594",
+      "title": "French Guiana",
+      "code": "GF"
+    },
+    {
+      "operatorCode": "+689",
+      "title": "French Polynesia",
+      "code": "PF"
+    },
+    {
+      "operatorCode": "+262",
+      "title": "French Southern Territories",
+      "code": "TF"
+    },
+    {
+      "operatorCode": "+241",
+      "title": "Gabon",
+      "code": "GA"
+    },
+    {
+      "operatorCode": "+220",
+      "title": "Gambia",
+      "code": "GM"
+    },
+    {
+      "operatorCode": "+995",
+      "title": "Georgia",
+      "code": "GE"
+    },
+    {
+      "operatorCode": "+49",
+      "title": "Germany",
+      "code": "DE"
+    },
+    {
+      "operatorCode": "+233",
+      "title": "Ghana",
+      "code": "GH"
+    },
+    {
+      "operatorCode": "+350",
+      "title": "Gibraltar",
+      "code": "GI"
+    },
+    {
+      "operatorCode": "+30",
+      "title": "Greece",
+      "code": "GR"
+    },
+    {
+      "operatorCode": "+299",
+      "title": "Greenland",
+      "code": "GL"
+    },
+    {
+      "operatorCode": "+1 473",
+      "title": "Grenada",
+      "code": "GD"
+    },
+    {
+      "operatorCode": "+590",
+      "title": "Guadeloupe",
+      "code": "GP"
+    },
+    {
+      "operatorCode": "+1 671",
+      "title": "Guam",
+      "code": "GU"
+    },
+    {
+      "operatorCode": "+502",
+      "title": "Guatemala",
+      "code": "GT"
+    },
+    {
+      "operatorCode": "+44",
+      "title": "Guernsey",
+      "code": "GG"
+    },
+    {
+      "operatorCode": "+224",
+      "title": "Guinea",
+      "code": "GN"
+    },
+    {
+      "operatorCode": "+245",
+      "title": "Guinea-Bissau",
+      "code": "GW"
+    },
+    {
+      "operatorCode": "+595",
+      "title": "Guyana",
+      "code": "GY"
+    },
+    {
+      "operatorCode": "+509",
+      "title": "Haiti",
+      "code": "HT"
+    },
+    {
+      "operatorCode": "+504",
+      "title": "Honduras",
+      "code": "HN"
+    },
+    {
+      "operatorCode": "+852",
+      "title": "Hong Kong SAR China",
+      "code": "HK"
+    },
+    {
+      "operatorCode": "+36",
+      "title": "Hungary",
+      "code": "HU"
+    },
+    {
+      "operatorCode": "+354",
+      "title": "Iceland",
+      "code": "IS"
+    },
+    {
+      "operatorCode": "+91",
+      "title": "India",
+      "code": "IN"
+    },
+    {
+      "operatorCode": "+62",
+      "title": "Indonesia",
+      "code": "ID"
+    },
+    {
+      "operatorCode": "+98",
+      "title": "Iran",
+      "code": "IR"
+    },
+    {
+      "operatorCode": "+964",
+      "title": "Iraq",
+      "code": "IQ"
+    },
+    {
+      "operatorCode": "+353",
+      "title": "Ireland",
+      "code": "IE"
+    },
+    {
+      "operatorCode": "+972",
+      "title": "Israel",
+      "code": "IL"
+    },
+    {
+      "operatorCode": "+44",
+      "title": "Isle of Man",
+      "code": "IM"
+    },
+    {
+      "operatorCode": "+39",
+      "title": "Italy",
+      "code": "IT"
+    },
+    {
+      "operatorCode": "+225",
+      "title": "Côte d'Ivoire",
+      "code": "CI"
+    },
+    {
+      "operatorCode": "+1 876",
+      "title": "Jamaica",
+      "code": "JM"
+    },
+    {
+      "operatorCode": "+81",
+      "title": "Japan",
+      "code": "JP"
+    },
+    {
+      "operatorCode": "+44",
+      "title": "Jersey",
+      "code": "JE"
+    },
+    {
+      "operatorCode": "+962",
+      "title": "Jordan",
+      "code": "JO"
+    },
+    {
+      "operatorCode": "+7 7",
+      "title": "Kazakhstan",
+      "code": "KZ"
+    },
+    {
+      "operatorCode": "+254",
+      "title": "Kenya",
+      "code": "KE"
+    },
+    {
+      "operatorCode": "+383",
+      "title": "Kosovo",
+      "code": "XK"
+    },
+    {
+      "operatorCode": "+686",
+      "title": "Kiribati",
+      "code": "KI"
+    },
+    {
+      "operatorCode": "+965",
+      "title": "Kuwait",
+      "code": "KW"
+    },
+    {
+      "operatorCode": "+996",
+      "title": "Kyrgyzstan",
+      "code": "KG"
+    },
+    {
+      "operatorCode": "+856",
+      "title": "Laos",
+      "code": "LA"
+    },
+    {
+      "operatorCode": "+371",
+      "title": "Latvia",
+      "code": "LV"
+    },
+    {
+      "operatorCode": "+961",
+      "title": "Lebanon",
+      "code": "LB"
+    },
+    {
+      "operatorCode": "+266",
+      "title": "Lesotho",
+      "code": "LS"
+    },
+    {
+      "operatorCode": "+231",
+      "title": "Liberia",
+      "code": "LR"
+    },
+    {
+      "operatorCode": "+218",
+      "title": "Libya",
+      "code": "LY"
+    },
+    {
+      "operatorCode": "+423",
+      "title": "Liechtenstein",
+      "code": "LI"
+    },
+    {
+      "operatorCode": "+370",
+      "title": "Lithuania",
+      "code": "LT"
+    },
+    {
+      "operatorCode": "+352",
+      "title": "Luxembourg",
+      "code": "LU"
+    },
+    {
+      "operatorCode": "+853",
+      "title": "Macau SAR China",
+      "code": "MO"
+    },
+    {
+      "operatorCode": "+389",
+      "title": "North Macedonia",
+      "code": "MK"
+    },
+    {
+      "operatorCode": "+261",
+      "title": "Madagascar",
+      "code": "MG"
+    },
+    {
+      "operatorCode": "+265",
+      "title": "Malawi",
+      "code": "MW"
+    },
+    {
+      "operatorCode": "+60",
+      "title": "Malaysia",
+      "code": "MY"
+    },
+    {
+      "operatorCode": "+960",
+      "title": "Maldives",
+      "code": "MV"
+    },
+    {
+      "operatorCode": "+223",
+      "title": "Mali",
+      "code": "ML"
+    },
+    {
+      "operatorCode": "+356",
+      "title": "Malta",
+      "code": "MT"
+    },
+    {
+      "operatorCode": "+692",
+      "title": "Marshall Islands",
+      "code": "MH"
+    },
+    {
+      "operatorCode": "+596",
+      "title": "Martinique",
+      "code": "MQ"
+    },
+    {
+      "operatorCode": "+222",
+      "title": "Mauritania",
+      "code": "MR"
+    },
+    {
+      "operatorCode": "+230",
+      "title": "Mauritius",
+      "code": "MU"
+    },
+    {
+      "operatorCode": "+262",
+      "title": "Mayotte",
+      "code": "YT"
+    },
+    {
+      "operatorCode": "+52",
+      "title": "Mexico",
+      "code": "MX"
+    },
+    {
+      "operatorCode": "+691",
+      "title": "Micronesia",
+      "code": "FM"
+    },
+    {
+      "operatorCode": "+373",
+      "title": "Moldova",
+      "code": "MD"
+    },
+    {
+      "operatorCode": "+377",
+      "title": "Monaco",
+      "code": "MC"
+    },
+    {
+      "operatorCode": "+976",
+      "title": "Mongolia",
+      "code": "MN"
+    },
+    {
+      "operatorCode": "+382",
+      "title": "Montenegro",
+      "code": "ME"
+    },
+    {
+      "operatorCode": "+1664",
+      "title": "Montserrat",
+      "code": "MS"
+    },
+    {
+      "operatorCode": "+212",
+      "title": "Morocco",
+      "code": "MA"
+    },
+    {
+      "operatorCode": "+258",
+      "title": "Mozambique",
+      "code": "MZ"
+    },
+    {
+      "operatorCode": "+95",
+      "title": "Myanmar",
+      "code": "MM"
+    },
+    {
+      "operatorCode": "+264",
+      "title": "Namibia",
+      "code": "NA"
+    },
+    {
+      "operatorCode": "+674",
+      "title": "Nauru",
+      "code": "NR"
+    },
+    {
+      "operatorCode": "+977",
+      "title": "Nepal",
+      "code": "NP"
+    },
+    {
+      "operatorCode": "+31",
+      "title": "Netherlands",
+      "code": "NL"
+    },
+    {
+      "operatorCode": "+687",
+      "title": "New Caledonia",
+      "code": "NC"
+    },
+    {
+      "operatorCode": "+64",
+      "title": "New Zealand",
+      "code": "NZ"
+    },
+    {
+      "operatorCode": "+505",
+      "title": "Nicaragua",
+      "code": "NI"
+    },
+    {
+      "operatorCode": "+227",
+      "title": "Niger",
+      "code": "NE"
+    },
+    {
+      "operatorCode": "+234",
+      "title": "Nigeria",
+      "code": "NG"
+    },
+    {
+      "operatorCode": "+683",
+      "title": "Niue",
+      "code": "NU"
+    },
+    {
+      "operatorCode": "+672",
+      "title": "Norfolk Island",
+      "code": "NF"
+    },
+    {
+      "operatorCode": "+850",
+      "title": "North Korea",
+      "code": "KP"
+    },
+    {
+      "operatorCode": "+1 670",
+      "title": "Northern Mariana Islands",
+      "code": "MP"
+    },
+    {
+      "operatorCode": "+47",
+      "title": "Norway",
+      "code": "NO"
+    },
+    {
+      "operatorCode": "+968",
+      "title": "Oman",
+      "code": "OM"
+    },
+    {
+      "operatorCode": "+92",
+      "title": "Pakistan",
+      "code": "PK"
+    },
+    {
+      "operatorCode": "+680",
+      "title": "Palau",
+      "code": "PW"
+    },
+    {
+      "operatorCode": "+970",
+      "title": "Palestinian Territory",
+      "code": "PS"
+    },
+    {
+      "operatorCode": "+507",
+      "title": "Panama",
+      "code": "PA"
+    },
+    {
+      "operatorCode": "+675",
+      "title": "Papua New Guinea",
+      "code": "PG"
+    },
+    {
+      "operatorCode": "+595",
+      "title": "Paraguay",
+      "code": "PY"
+    },
+    {
+      "operatorCode": "+51",
+      "title": "Peru",
+      "code": "PE"
+    },
+    {
+      "operatorCode": "+64",
+      "title": "Pitcairn Islands",
+      "code": "PN"
+    },
+    {
+      "operatorCode": "+63",
+      "title": "Philippines",
+      "code": "PH"
+    },
+    {
+      "operatorCode": "+48",
+      "title": "Poland",
+      "code": "PL"
+    },
+    {
+      "operatorCode": "+351",
+      "title": "Portugal",
+      "code": "PT"
+    },
+    {
+      "operatorCode": "+1 787",
+      "title": "Puerto Rico",
+      "code": "PR"
+    },
+    {
+      "operatorCode": "+974",
+      "title": "Qatar",
+      "code": "QA"
+    },
+    {
+      "operatorCode": "+262",
+      "title": "Reunion",
+      "code": "RE"
+    },
+    {
+      "operatorCode": "+40",
+      "title": "Romania",
+      "code": "RO"
+    },
+    {
+      "operatorCode": "+7",
+      "title": "Russia",
+      "code": "RU"
+    },
+    {
+      "operatorCode": "+250",
+      "title": "Rwanda",
+      "code": "RW"
+    },
+    {
+      "operatorCode": "+685",
+      "title": "Samoa",
+      "code": "WS"
+    },
+    {
+      "operatorCode": "+378",
+      "title": "San Marino",
+      "code": "SM"
+    },
+    {
+      "operatorCode": "+966",
+      "title": "Saudi Arabia",
+      "code": "SA"
+    },
+    {
+      "operatorCode": "+221",
+      "title": "Senegal",
+      "code": "SN"
+    },
+    {
+      "operatorCode": "+381",
+      "title": "Serbia",
+      "code": "RS"
+    },
+    {
+      "operatorCode": "+248",
+      "title": "Seychelles",
+      "code": "SC"
+    },
+    {
+      "operatorCode": "+232",
+      "title": "Sierra Leone",
+      "code": "SL"
+    },
+    {
+      "operatorCode": "+65",
+      "title": "Singapore",
+      "code": "SG"
+    },
+    {
+      "operatorCode": "+1721",
+      "title": "Sint Maarten",
+      "code": "SX"
+    },
+    {
+      "operatorCode": "+421",
+      "title": "Slovakia",
+      "code": "SK"
+    },
+    {
+      "operatorCode": "+386",
+      "title": "Slovenia",
+      "code": "SI"
+    },
+    {
+      "operatorCode": "+252",
+      "title": "Somalia",
+      "code": "SO"
+    },
+    {
+      "operatorCode": "+677",
+      "title": "Solomon Islands",
+      "code": "SB"
+    },
+    {
+      "operatorCode": "+27",
+      "title": "South Africa",
+      "code": "ZA"
+    },
+    {
+      "operatorCode": "+500",
+      "title": "South Georgia and the South Sandwich Islands",
+      "code": "GS"
+    },
+    {
+      "operatorCode": "+211",
+      "title": "South Sudan",
+      "code": "SS"
+    },
+    {
+      "operatorCode": "+82",
+      "title": "South Korea",
+      "code": "KR"
+    },
+    {
+      "operatorCode": "+34",
+      "title": "Spain",
+      "code": "ES"
+    },
+    {
+      "operatorCode": "+94",
+      "title": "Sri Lanka",
+      "code": "LK"
+    },
+    {
+      "operatorCode": "+249",
+      "title": "Sudan",
+      "code": "SD"
+    },
+    {
+      "operatorCode": "+597",
+      "title": "Suriname",
+      "code": "SR"
+    },
+    {
+      "operatorCode": "+268",
+      "title": "Eswatini",
+      "code": "SZ"
+    },
+    {
+      "operatorCode": "+46",
+      "title": "Sweden",
+      "code": "SE"
+    },
+    {
+      "operatorCode": "+41",
+      "title": "Switzerland",
+      "code": "CH"
+    },
+    {
+      "operatorCode": "+963",
+      "title": "Syria",
+      "code": "SY"
+    },
+    {
+      "operatorCode": "+886",
+      "title": "Taiwan",
+      "code": "TW"
+    },
+    {
+      "operatorCode": "+992",
+      "title": "Tajikistan",
+      "code": "TJ"
+    },
+    {
+      "operatorCode": "+255",
+      "title": "Tanzania",
+      "code": "TZ"
+    },
+    {
+      "operatorCode": "+66",
+      "title": "Thailand",
+      "code": "TH"
+    },
+    {
+      "operatorCode": "+228",
+      "title": "Togo",
+      "code": "TG"
+    },
+    {
+      "operatorCode": "+690",
+      "title": "Tokelau",
+      "code": "TK"
+    },
+    {
+      "operatorCode": "+676",
+      "title": "Tonga",
+      "code": "TO"
+    },
+    {
+      "operatorCode": "+1 868",
+      "title": "Trinidad and Tobago",
+      "code": "TT"
+    },
+    {
+      "operatorCode": "+44 20",
+      "title": "Tristan da Cunha",
+      "code": "TA"
+    },
+    {
+      "operatorCode": "+216",
+      "title": "Tunisia",
+      "code": "TN"
+    },
+    {
+      "operatorCode": "+90",
+      "title": "Turkey",
+      "code": "TR"
+    },
+    {
+      "operatorCode": "+993",
+      "title": "Turkmenistan",
+      "code": "TM"
+    },
+    {
+      "operatorCode": "+1 649",
+      "title": "Turks and Caicos Islands",
+      "code": "TC"
+    },
+    {
+      "operatorCode": "+688",
+      "title": "Tuvalu",
+      "code": "TV"
+    },
+    {
+      "operatorCode": "+1 340",
+      "title": "U.S. Virgin Islands",
+      "code": "VI"
+    },
+    {
+      "operatorCode": "+256",
+      "title": "Uganda",
+      "code": "UG"
+    },
+    {
+      "operatorCode": "+380",
+      "title": "Ukraine",
+      "code": "UA"
+    },
+    {
+      "operatorCode": "+971",
+      "title": "United Arab Emirates",
+      "code": "AE"
+    },
+    {
+      "operatorCode": "+44",
+      "title": "United Kingdom",
+      "code": "GB"
+    },
+    {
+      "operatorCode": "+1",
+      "title": "United States",
+      "code": "US"
+    },
+    {
+      "operatorCode": "+379",
+      "title": "Vatican City",
+      "code": "VA"
+    },
+    {
+      "operatorCode": "+598",
+      "title": "Uruguay",
+      "code": "UY"
+    },
+    {
+      "operatorCode": "+998",
+      "title": "Uzbekistan",
+      "code": "UZ"
+    },
+    {
+      "operatorCode": "+678",
+      "title": "Vanuatu",
+      "code": "VU"
+    },
+    {
+      "operatorCode": "+58",
+      "title": "Venezuela",
+      "code": "VE"
+    },
+    {
+      "operatorCode": "+84",
+      "title": "Vietnam",
+      "code": "VN"
+    },
+    {
+      "operatorCode": "+212",
+      "title": "Western Sahara",
+      "code": "EH"
+    },
+    {
+      "operatorCode": "+681",
+      "title": "Wallis and Futuna",
+      "code": "WF"
+    },
+    {
+      "operatorCode": "+967",
+      "title": "Yemen",
+      "code": "YE"
+    },
+    {
+      "operatorCode": "+260",
+      "title": "Zambia",
+      "code": "ZM"
+    },
+    {
+      "operatorCode": "+263",
+      "title": "Zimbabwe",
+      "code": "ZW"
+    }
+  ]
+}

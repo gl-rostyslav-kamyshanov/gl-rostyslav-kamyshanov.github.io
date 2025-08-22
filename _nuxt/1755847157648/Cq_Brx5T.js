@@ -1,0 +1,1 @@
+import{W as t,c as n,a as o,T as s}from"./DerHuaWG.js";const c={},a={class:"inline-block my-1 px-4 py-2 rounded-full text-[var(--base-secondary-text-color)] text-caption-medium"};function r(e,_){return o(),n("span",a,[s(e.$slots,"default")])}const i=Object.assign(t(c,[["render",r]]),{__name:"BaseChip"});export{i as _};

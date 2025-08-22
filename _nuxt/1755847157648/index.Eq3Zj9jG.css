@@ -1,0 +1,1 @@
+.baseTable{border-collapse:collapse;min-width:100%}.baseTable tr{border-bottom:1px solid var(--base-header-line-color);border-top:1px solid var(--base-header-line-color)}.baseTable tr td,.baseTable tr th{padding-bottom:1rem;padding-top:1rem}.baseTable.baseTable_loading{cursor:wait;opacity:.75}.baseTable.baseTable_disabled{cursor:not-allowed;opacity:1}
