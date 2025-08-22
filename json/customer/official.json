@@ -51,8 +51,8 @@
         "status": "active",
         "role": "521c051b-bb4b-448d-a1dc-2677b379f7bd",
         "token": "**********",
-        "last_access": "2025-08-21T10:01:34.885Z",
-        "last_page": "/content/customers/94",
+        "last_access": "2025-08-22T07:26:55.535Z",
+        "last_page": "/content/customers",
         "provider": "default",
         "external_identifier": null,
         "auth_data": null,
@@ -71,7 +71,7 @@
         "user_created": "ca784d6b-cf3a-42ba-8c41-984f35b4f583",
         "date_created": "2024-11-26T11:11:14.127Z",
         "user_updated": "ca784d6b-cf3a-42ba-8c41-984f35b4f583",
-        "date_updated": "2025-08-21T10:02:03.621Z",
+        "date_updated": "2025-08-22T07:28:08.864Z",
         "name": "Alpha OTT",
         "type": "existing",
         "device_limit": 3,
@@ -201,6 +201,10 @@
                 "ifa_api_base_url": "https://app.football.org.il",
                 "app_client_id_for_ifa": "65c1f47f6a60f358b603cbd2",
                 "header_links": [
+                    {
+                        "title": "Test Ad",
+                        "url": "/dev-ad-test/"
+                    },
                     {
                         "title": "Direto 1",
                         "url": "/channels/6870ddf162f473f7c1cb677f/"
