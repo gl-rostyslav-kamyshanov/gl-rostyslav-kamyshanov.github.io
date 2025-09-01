@@ -1,0 +1,2 @@
+import{W as t,c as n,a as o,i as s}from"./CKHG8x2g.js";const a={},c={width:"16",height:"16",viewBox:"0 0 16 16",xmlns:"http://www.w3.org/2000/svg"};function _(r,e){return o(),n("svg",c,[...e[0]||(e[0]=[s("path",{d:"M6.4 1.6a1.6 1.6 0 1 0 3.2 0 1.6 1.6 0 0 0-3.2 0zm0 6.4a1.6 1.6 0 1 0 3.2 0 1.6 1.6 0 0 0-3.2 0zm0 6.4a1.6 1.6 0 1 0 3.2 0 1.6 1.6 0 0 0-3.2 0z",fill:"#A9B7D1","fill-rule":"evenodd"},null,-1)])])}const l=Object.assign(t(a,[["render",_]]),{__name:"IconAction"});export{l as _};
+//# sourceMappingURL=DqD-rngp.js.map

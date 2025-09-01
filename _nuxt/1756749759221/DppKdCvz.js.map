@@ -1,0 +1,1 @@
+{"version":3,"file":"DppKdCvz.js","sources":["../../../../app/pages/account/subscription.vue"],"sourcesContent":["<template>\n  <div>\n    <NuxtPage />\n  </div>\n</template>\n"],"names":["_createElementBlock","_createVNode","_component_NuxtPage"],"mappings":"8GACEA,EAEM,MAAA,KAAA,CADJC,EAAYC,CAAA"}
