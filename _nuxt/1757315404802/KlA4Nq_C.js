@@ -1,0 +1,2 @@
+import{d as o,c as n,a as l,i as s}from"./ByLxOsXe.js";const i=["width","height"],a=["fill"],c=o({__name:"Left",props:{width:{default:16},height:{default:16},fill:{default:"currentColor"}},setup(t){const e=t;return(h,r)=>(l(),n("svg",{width:e.width,height:e.height,viewBox:"0 0 20 20",xmlns:"http://www.w3.org/2000/svg"},[s("path",{d:"M12.756 20 15 17.897l-8.104-7.875L15 2.148 12.802 0 2.5 10.022z",fill:e.fill,"fill-rule":"evenodd"},null,8,a)],8,i))}}),d=Object.assign(c,{__name:"IconChevronLeft"});export{d as _};
+//# sourceMappingURL=KlA4Nq_C.js.map

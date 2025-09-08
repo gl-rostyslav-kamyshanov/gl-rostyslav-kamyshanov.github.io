@@ -1,0 +1,16 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "tv.pixellot.ott",
+            "sha256_cert_fingerprints": [
+                [
+                    "A8:DC:1F:35:E8:10:BE:32:81:53:51:60:16:ED:41:8A:27:2C:C4:42:69:A7:2F:46:61:96:AC:14:D5:DE:F4:D5"
+                ]
+            ]
+        }
+    }
+]

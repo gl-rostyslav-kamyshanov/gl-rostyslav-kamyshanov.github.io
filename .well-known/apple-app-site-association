@@ -1,0 +1,33 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "DWE5Z58LWV.tv.pixellot.ott",
+                "paths": [
+                    "/",
+                    "/open-app",
+                    "/home",
+                    "/live",
+                    "/upcoming",
+                    "/latest",
+                    "/highlight",
+                    "/recommendation",
+                    "/suggested",
+                    "/following/*",
+                    "/events/*",
+                    "/channels/*",
+                    "/category/*",
+                    "/league/*",
+                    "/team/*",
+                    "/search/*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "DWE5Z58LWV.tv.pixellot.ott"
+        ]
+    }
+}
