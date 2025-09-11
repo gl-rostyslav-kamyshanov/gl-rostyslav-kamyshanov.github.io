@@ -21,8 +21,8 @@
         "status": "active",
         "role": "521c051b-bb4b-448d-a1dc-2677b379f7bd",
         "token": "**********",
-        "last_access": "2025-08-28T09:40:36.142Z",
-        "last_page": "/content/customers/94",
+        "last_access": "2025-09-05T08:22:50.042Z",
+        "last_page": "/content/customers",
         "provider": "default",
         "external_identifier": null,
         "auth_data": null,
@@ -263,6 +263,7 @@
         "subscription_id": null,
         "success_payment_redirect_url": null,
         "enable_live_scoring": false,
+        "enable_event_scoring": false,
         "page_custom": [
             "e9d7a6bf-8e7a-4980-bac4-b9117a74f198"
         ],

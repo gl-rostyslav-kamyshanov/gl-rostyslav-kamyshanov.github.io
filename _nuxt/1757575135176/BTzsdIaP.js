@@ -1,0 +1,2 @@
+import{aE as r,r as s,aM as l}from"./DH8tuaqJ.js";function c(){const u=r("form-events",void 0),e=r("form-group",void 0),o=s(!1);function n(i,f){u&&u.emit({type:i,path:f})}function a(){e?.name.value&&n("blur",e.name.value),o.value=!0}function m(){e?.name.value&&n("change",e.name.value)}const t=l(()=>{o.value&&e?.name.value&&n("input",e.name.value)},300);return{emitFormBlur:a,emitFormInput:t,emitFormChange:m,formGroup:e}}export{c as u};
+//# sourceMappingURL=BTzsdIaP.js.map

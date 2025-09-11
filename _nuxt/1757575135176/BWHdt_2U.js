@@ -1,0 +1,2 @@
+import{d as n,c as s,a as i,i as r}from"./DH8tuaqJ.js";const a=["width","height"],h=n({__name:"Down",props:{width:{default:12},height:{default:12}},setup(o){const e=o;return(l,t)=>(i(),s("svg",{width:e.width,height:e.height,viewBox:"0 0 20 20",xmlns:"http://www.w3.org/2000/svg"},[...t[0]||(t[0]=[r("path",{d:"M0 7.244 2.103 5l7.875 8.104L17.852 5 20 7.198 9.978 17.5z",fill:"currentColor","fill-rule":"evenodd"},null,-1)])],8,a))}}),d=Object.assign(h,{__name:"IconChevronDown"});export{d as _};
+//# sourceMappingURL=BWHdt_2U.js.map

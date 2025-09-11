@@ -1,0 +1,2 @@
+import{c as s}from"./DDdu3UKT.js";import{i as a,E as o,$ as r,k as c,H as l,l as i}from"./Ba6UbCaE.js";import"./DH8tuaqJ.js";const n={},p={class:"py-6 mx-auto"},m={class:"flex flex-col text-center items-center gap-2 text-lg px-2"};function u(x,t){const e=s;return r(),o("div",p,[c("p",m,[t[0]||(t[0]=l(" Select a Query to inspect ")),i(e)])])}const k=a(n,[["render",u]]);export{k as default};
+//# sourceMappingURL=D07vmCVC.js.map
