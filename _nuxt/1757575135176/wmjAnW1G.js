@@ -1,2 +1,0 @@
-import{d as n,M as r,P as s,o as a,c as u,a as c}from"./DH8tuaqJ.js";const _=n({__name:"open-app",setup(p){const o=r(),t=s(),e=o.query.storeUrl;return a(()=>{if(!e||e==="undefined")return t.push({path:"/"});window.location.href=e}),(i,d)=>(c(),u("div",null," Redirecting ..."))}});export{_ as default};
-//# sourceMappingURL=wmjAnW1G.js.map

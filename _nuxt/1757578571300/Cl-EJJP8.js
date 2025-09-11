@@ -1,0 +1,2 @@
+import{u as g,b as i,r as p,f as y,bj as l,q as d,p as m}from"./CwABAOlJ.js";function h(o){const r=m(),{t:n,te:u}=g(),c=i(),s=p(!1),t=y(()=>!!c.followed[o.id]),a=e=>{const{message:w}=d(e.message,{t:n,te:u});return r.error(w)};async function f(e){s.value=!0,t.value?await l.unfollow({item:e,type:o.type}).catch(a):await l.follow({item:e,type:o.type}).catch(a),s.value=!1}return{isFollowing:t,loading:s,toggleFollow:f}}export{h as u};
+//# sourceMappingURL=Cl-EJJP8.js.map

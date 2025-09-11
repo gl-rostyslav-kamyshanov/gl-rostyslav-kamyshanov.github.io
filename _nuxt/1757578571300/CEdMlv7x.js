@@ -1,0 +1,2 @@
+import{bW as e,K as s,X as a}from"./CwABAOlJ.js";const o=e(()=>{s().public.APP_CUSTOMER.enable_teams||a({statusCode:404})});export{o as default};
+//# sourceMappingURL=CEdMlv7x.js.map

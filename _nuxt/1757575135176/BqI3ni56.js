@@ -1,2 +1,0 @@
-import{v as a,a0 as n,Y as d,Z as o,a1 as m}from"./DH8tuaqJ.js";import{f as i}from"./Dhyeswjy.js";const l={load(e){const{request:s}=a(),t=n(e);return e?.identityId&&(t.filters?t.filters["identities.type"]=e?.identityId:t.filters={"identities.type":e?.identityId}),t.order=d.asc,t.sort=o.title,s.post("/api/team/list",{body:t}).then(r=>m(r,i))},loadById(e){const{request:s}=a();return s.get(`/api/team/get_by_id/id/${e}`).then(async t=>i(t.content))}};export{l as T};
-//# sourceMappingURL=BqI3ni56.js.map

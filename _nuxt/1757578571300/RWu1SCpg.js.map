@@ -1,0 +1,1 @@
+{"version":3,"file":"RWu1SCpg.js","sources":["../../../../app/pages/account/billing.vue"],"sourcesContent":["<template>\n  <div>\n    <NuxtPage />\n  </div>\n</template>\n"],"names":["_createElementBlock","_createVNode","_component_NuxtPage"],"mappings":"yGACEA,EAEM,MAAA,KAAA,CADJC,EAAYC,CAAA"}
