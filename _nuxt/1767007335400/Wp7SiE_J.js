@@ -1,0 +1,1 @@
+import{e as s,ae as r,q as o,r as d}from"./vfF7RKPo.js";const c={load(e){const{request:t}=s(),n={...o(e),filters:{media_type:"identity",archived:e?.archived}};return t.post("/api/identity/list",{body:n}).then(i=>d(i,r))},loadById(e){const{request:t}=s();return t.get(`/api/identity/get_by_id/id/${e}`).then(async a=>r(a.content))}};export{c as I};

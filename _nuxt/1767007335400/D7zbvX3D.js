@@ -1,0 +1,1 @@
+import{bc as o,bd as n,J as a}from"./vfF7RKPo.js";import"./DrHYGv5w.js";import"./IVvJIK5b.js";import"./Dql7-ge0.js";function c(i){return o(this,void 0,void 0,function(){var t;return n(this,function(r){switch(r.label){case 0:return[4,a(()=>import("./Cv03mnfb.js").then(e=>e.i),[],import.meta.url)];case 1:return t=r.sent(),i._plugins=t,[2]}})})}export{c as loadLegacyVideoPlugins};

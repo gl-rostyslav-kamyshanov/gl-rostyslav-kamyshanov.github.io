@@ -1,2 +1,0 @@
-import{x as o,y as s}from"./CwABAOlJ.js";import{T as a}from"./DJvLPpT0.js";const t={root:["teams"],list:e=>[...t.root,"list",{page:e.page,pageSize:e.pageSize,sort:e.sort,order:e.order,identityId:e.identityId}],byId:e=>[...t.root,"byId",e]},n=s(e=>({key:t.list(e),query:()=>a.load(e).then(r=>r.content.entries),staleTime:1e3*60*5})),y=s(e=>({key:t.byId(e),query:()=>a.loadById(e),staleTime:1e3*60*5}));function u(e){return o(n,e)}function m(e){return o(y,e)}export{u as a,m as u};
-//# sourceMappingURL=C2XOjfZX.js.map

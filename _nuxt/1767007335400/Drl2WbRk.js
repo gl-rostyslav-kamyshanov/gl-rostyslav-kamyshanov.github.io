@@ -1,0 +1,1 @@
+import{b4 as e,a as r,n as a}from"./vfF7RKPo.js";import"./DrHYGv5w.js";import"./IVvJIK5b.js";import"./Dql7-ge0.js";const d=e(t=>{if(!r().isAuthenticated)return a({path:"/auth/login/",query:{redirectUrl:t.fullPath}})});export{d as default};

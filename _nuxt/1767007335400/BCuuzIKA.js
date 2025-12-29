@@ -1,0 +1,1 @@
+import{k as r,l as n}from"./vfF7RKPo.js";import{d as s,X as u,g as a,o as p}from"./DrHYGv5w.js";import"./IVvJIK5b.js";import"./Dql7-ge0.js";const h=s({__name:"open-app",setup(c){const o=r(),t=n(),e=o.query.storeUrl;return u(()=>{if(!e||e==="undefined")return t.push({path:"/"});window.location.href=e}),(i,l)=>(p(),a("div",null," Redirecting ..."))}});export{h as default};

@@ -1,0 +1,1 @@
+import{n as e}from"./vfF7RKPo.js";import{d as o,X as t,g as n,o as a}from"./DrHYGv5w.js";import"./IVvJIK5b.js";import"./Dql7-ge0.js";const d=o({__name:"home",setup(r){return t(()=>e({path:"/"})),(m,p)=>(a(),n("div",null," Redirecting ..."))}});export{d as default};

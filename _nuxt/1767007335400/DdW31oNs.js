@@ -1,0 +1,1 @@
+import{o}from"./vfF7RKPo.js";import{g as t,o as n,e as s}from"./DrHYGv5w.js";const c={},r={class:"inline-block my-1 px-4 py-2 rounded-full text-[var(--base-secondary-text-color)] text-caption-medium"};function a(e,_){return n(),t("span",r,[s(e.$slots,"default")])}const m=Object.assign(o(c,[["render",a]]),{__name:"BaseChip"});export{m as _};

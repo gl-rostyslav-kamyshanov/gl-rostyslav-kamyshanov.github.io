@@ -1,0 +1,1 @@
+import{n as e}from"./vfF7RKPo.js";import{d as n,X as o,g as t,o as a}from"./DrHYGv5w.js";import"./IVvJIK5b.js";import"./Dql7-ge0.js";const d=n({__name:"index",setup(r){return o(()=>e({path:"/account/general/"})),(c,i)=>(a(),t("div",null," Redirecting ..."))}});export{d as default};

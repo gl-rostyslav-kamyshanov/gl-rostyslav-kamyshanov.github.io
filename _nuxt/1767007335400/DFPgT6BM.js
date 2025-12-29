@@ -1,0 +1,1 @@
+import{n as o}from"./vfF7RKPo.js";import{d as t,X as e,g as n,o as a}from"./DrHYGv5w.js";import"./IVvJIK5b.js";import"./Dql7-ge0.js";const _=t({__name:"about",setup(r){return e(()=>o({path:"/info/about_us/"})),(i,p)=>(a(),n("div",null," Redirecting ..."))}});export{_ as default};

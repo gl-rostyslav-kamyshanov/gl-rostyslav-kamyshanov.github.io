@@ -1,0 +1,1 @@
+import{k as o,aq as t}from"./vfF7RKPo.js";import{N as u}from"./DrHYGv5w.js";function s(){const r=o();return u(()=>r.path.includes(t.TEAM)?t.TEAM:r.path.includes(t.LEAGUE)?t.LEAGUE:r.path.includes("sub-category")?t.SUB_CATEGORY:r.path.includes(t.CATEGORY)?t.CATEGORY:t.HOME)}export{s as u};

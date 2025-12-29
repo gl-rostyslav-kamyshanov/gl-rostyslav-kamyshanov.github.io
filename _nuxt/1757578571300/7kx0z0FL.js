@@ -1,2 +1,0 @@
-const t=e=>e&&e.charAt(0).toUpperCase()+e.slice(1),a=e=>e&&e.split(" ").length>1?"break-word":"break-all",n=e=>{const r=/((https?:\/\/|www\.)\S+)/g;return e.replace(r,"<a href='$1' target='_blank' style='text-decoration: underline;'>$1</a>")};export{t as c,a as g,n as r};
-//# sourceMappingURL=7kx0z0FL.js.map

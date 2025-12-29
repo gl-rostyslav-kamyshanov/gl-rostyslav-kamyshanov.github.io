@@ -1,1 +1,0 @@
-{"version":3,"file":"ZCdxTtWu.js","sources":["../../../../i18n/i18n.config.ts"],"sourcesContent":["export default defineI18nConfig(() => ({\n  legacy: false,\n  locale: \"en\",\n  fallbackLocale: \"en\",\n}));\n"],"names":["i18n_config"],"mappings":"AAAA,MAAAA,EAAe,KAAO,CACpB,OAAQ,GACR,OAAQ,KACR,eAAgB,IAClB"}

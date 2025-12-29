@@ -1,0 +1,1 @@
+import{i as t,E as r,$ as o}from"./BOxKb3Ko.js";import"./vfF7RKPo.js";import"./DrHYGv5w.js";import"./IVvJIK5b.js";import"./Dql7-ge0.js";const i={};function n(s,e){return o(),r("h1",null,"Settings")}const f=t(i,[["render",n]]);export{f as default};

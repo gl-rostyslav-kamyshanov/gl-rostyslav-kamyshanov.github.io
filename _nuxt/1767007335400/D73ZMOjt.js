@@ -1,0 +1,1 @@
+import{n as o}from"./vfF7RKPo.js";import{d as e,X as t,g as n,o as a}from"./DrHYGv5w.js";import"./IVvJIK5b.js";import"./Dql7-ge0.js";const l=e({__name:"privacy",setup(r){return t(()=>o({path:"/info/privacy_policy/"})),(i,p)=>(a(),n("div",null," Redirecting ..."))}});export{l as default};

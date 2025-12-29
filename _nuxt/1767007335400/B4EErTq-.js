@@ -1,0 +1,1 @@
+import{n as e}from"./vfF7RKPo.js";import{d as o,X as t,g as n,o as r}from"./DrHYGv5w.js";import"./IVvJIK5b.js";import"./Dql7-ge0.js";const f=o({__name:"terms",setup(a){return t(()=>e({path:"/info/terms_of_service/"})),(s,i)=>(r(),n("div",null," Redirecting ..."))}});export{f as default};

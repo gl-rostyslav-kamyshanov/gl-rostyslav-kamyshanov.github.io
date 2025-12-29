@@ -15,13 +15,13 @@
         "title": null,
         "description": null,
         "tags": null,
-        "avatar": "33da020c-9806-4d3d-939a-70e1d39ada4a",
+        "avatar": "51039cf0-0c5b-4a39-85a4-f834b942aae9",
         "language": null,
         "tfa_secret": null,
         "status": "active",
         "role": "521c051b-bb4b-448d-a1dc-2677b379f7bd",
         "token": "**********",
-        "last_access": "2025-09-05T08:22:50.042Z",
+        "last_access": "2025-12-16T08:11:03.428Z",
         "last_page": "/content/customers",
         "provider": "default",
         "external_identifier": null,
@@ -42,7 +42,7 @@
         "user_created": "1b299e6e-c687-4ea2-9aa8-f2afccf1850e",
         "date_created": "2023-07-26T14:15:40.856Z",
         "user_updated": "ca784d6b-cf3a-42ba-8c41-984f35b4f583",
-        "date_updated": "2025-08-13T07:54:18.627Z",
+        "date_updated": "2025-12-12T07:36:39.007Z",
         "name": "Alpha2 OTT",
         "type": "existing",
         "device_limit": 3,
@@ -132,7 +132,10 @@
                 "ifa_api_base_url": "https://app.football.org.il",
                 "app_client_id_for_ifa": "65c1f47f6a60f358b603cbd2",
                 "enable_mercadopago_payment": true,
-                "api_key_mercadopago_public": "APP_USR-177a2b19-6faf-4f8c-ac42-a0a52c26f8a0",
+                "api_key_mercadopago_public": "APP_USR-ae3dd903-1adb-4d91-80b0-3c67a7d65bf7",
+                "enable_itg_ads": true,
+                "itg_account_id": "653647b68b8364785c095ae3",
+                "itg_channel_slug": "espn",
                 "header_links": [
                     {
                         "title": "Direto",
@@ -141,6 +144,10 @@
                     {
                         "title": "Test Middrol",
                         "url": "/dev-ad-test"
+                    },
+                    {
+                        "title": "External Link",
+                        "url": "https://pixellot.directus.app/admin/content/customers/61"
                     }
                 ]
             },
@@ -166,8 +173,13 @@
                 "enable_stripe_payment": true,
                 "enable_paystack_payment": false,
                 "enable_gender_classification": true,
+                "enable_mercadopago_payment": false,
                 "ifa_api_base_url": "https://app.football.org.il",
                 "app_client_id_for_ifa": "65c1f47f6a60f358b603cbd2",
+                "api_key_mercadopago_public": "APP_USR-ae3dd903-1adb-4d91-80b0-3c67a7d65bf7",
+                "enable_itg_ads": true,
+                "itg_account_id": "68cfe4e540da4353a54fa054",
+                "itg_channel_slug": "68c27cae3df9af6f0ccc821e",
                 "header_links": [
                     {
                         "title": "Direto",
@@ -264,6 +276,10 @@
         "success_payment_redirect_url": null,
         "enable_live_scoring": false,
         "enable_event_scoring": false,
+        "enable_player_highlights_flow": true,
+        "enable_itg_ads": false,
+        "itg_account_id": null,
+        "itg_channel_slug": null,
         "page_custom": [
             "e9d7a6bf-8e7a-4980-bac4-b9117a74f198"
         ],

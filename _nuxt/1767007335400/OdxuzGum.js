@@ -1,0 +1,1 @@
+import{o}from"./vfF7RKPo.js";import{g as t,o as r,e as s}from"./DrHYGv5w.js";import"./IVvJIK5b.js";import"./Dql7-ge0.js";const a={},c={class:"defaultLayout"};function n(e,f){return r(),t("div",c,[s(e.$slots,"default")])}const m=o(a,[["render",n]]);export{m as default};
